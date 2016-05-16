@@ -1,0 +1,15 @@
+
+/* Class = "UIViewController"; title = "MainView"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "MainView";
+
+/* Class = "UIButton"; normalTitle = "写真選択"; ObjectID = "Wlw-CP-FBv"; */
+"Wlw-CP-FBv.normalTitle" = "写真選択";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "Yh3-uh-8J5"; */
+"Yh3-uh-8J5.title" = "AlchemyAPI Test";
+
+/* Class = "UIViewController"; title = "SubView"; ObjectID = "j85-ai-vbI"; */
+"j85-ai-vbI.title" = "SubView";
+
+/* Class = "UINavigationItem"; title = "結果"; ObjectID = "ldc-zX-Ujm"; */
+"ldc-zX-Ujm.title" = "結果";
